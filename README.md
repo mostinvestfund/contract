@@ -1,4 +1,4 @@
-# MpstInvestFund Contract
+# MostInvestFund Contract
 
 ## Dependencies
 This repository uses Truffle to compile, test and deploy smart contracts.
